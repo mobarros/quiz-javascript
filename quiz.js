@@ -9,7 +9,7 @@ var myQuestions = [
 		correctAnswer: 'b'
 	},
 	{
-		question: "Qual é o maior numero?",
+		question: "Qual é o maior número?",
 		answers: {
 			a: '-30',
 			b: '5',
