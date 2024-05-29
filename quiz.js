@@ -1,6 +1,6 @@
 var myQuestions = [
 	{
-		question: "Qual a Capital do Brasil",
+		question: "Qual a Capital do Brasil?",
 		answers: {
 			a: 'São Paulo',
 			b: 'Brasília',
